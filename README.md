@@ -37,7 +37,8 @@ Estoy construyendo poco a poco mi camino como futura desarrolladora web 😉
 - [x] Programación Orientada a Objetos
 - [ ] Colecciones y Programación Funcional
 - [ ] Uso de bases de datos y lectura de ficheros
-      
+
+---      
 
 | Objetivos  |   Estado  |
 |-----------|-----------|
