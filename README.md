@@ -5,6 +5,7 @@ Soy estudiante de **1º de Desarrollo de Aplicaciones Web** en el IES Luis Vives
 Me considero una persona responsable, con ganas de aprender y mejorar cada día. Me gusta enfrentarme a nuevos retos y seguir creciendo tanto a nivel personal como profesional.
 
 Estoy construyendo poco a poco mi camino como futura desarrolladora web 😉     
+> “Programa siempre tu código como si la persona que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”. Martin Goldin
 
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="350" height="300"/>
@@ -38,4 +39,11 @@ Estoy construyendo poco a poco mi camino como futura desarrolladora web 😉
 - [x] Programación Orientada a Objetos
 - [ ] Colecciones y Programación Funcional
 - [ ] Uso de bases de datos y lectura de ficheros
+
+| Objetivos |   Estado  |
+|-----------|-----------|
+| Dominar los fundamentos de la programacion   | En proceso  |
+| Dominar el uso de programacion orientada a objetos  | En proceso |
+| Dominar el uso de multiples colecciones | En proceso|
+| Dominar el paradigma de programacion funcional | En proceso|
 
