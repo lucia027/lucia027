@@ -1,0 +1,53 @@
+name: Actualizar Space Shooter
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 5 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: animaciones-perfil
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+
+      - name: Preparar Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Instalar Space Shooter
+        run: python -m pip install gh-space-shooter==2.0.5
+
+      - name: Crear carpeta de salida
+        run: mkdir -p dist
+
+      - name: Generar Space Shooter
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          gh-space-shooter "$PROFILE_USER" \
+            --output dist/space-shooter.gif \
+            --strategy random \
+            --fps 25
+
+      - name: Guardar la animación
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4
+        with:
+          target_branch: profile-animations
+          build_dir: dist
+          keep_history: true
+          allow_empty_commit: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
