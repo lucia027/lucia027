@@ -1,49 +1,95 @@
-# 👋🏻😊 Hola, soy Lucía Fuertes 
+<h1 align="center">👋🏻 ¡Hola! Soy Lucía Fuertes Cruz</h1>
 
-Soy estudiante de **1º de Desarrollo de Aplicaciones Web** en el IES Luis Vives. Actualmente estoy dando mis primeros pasos en el mundo de la programación y el desarrollo web, aprendiendo tecnologías como C#, SQL, MongoDB, HTML, CSS, Git.
-
-Me considero una persona responsable, con ganas de aprender y mejorar cada día. Me gusta enfrentarme a nuevos retos y seguir creciendo tanto a nivel personal como profesional.
-
-Estoy construyendo poco a poco mi camino como futura desarrolladora web 😉     
-> “Programa siempre tu código como si la persona que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”. Martin Goldin
-
-![Gift gato](https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif)
-
-
-## 📞Contacto
-
-<div align="">
-  <a href="https://www.linkedin.com/in/lucia-fuertes-cruz-658295353/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a>
-  <a href="https://github.com/lucia027" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=purple&Color=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&to=lucia.fuertes.06@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" /></a>
-</div>
-
-
-## 💻 Tecnologías y Herramientas
-[![My Skills](https://skillicons.dev/icons?i=rider,idea,cs,css,html,vscode,git,mongodb,mysql,ubuntu,windows,wordpress)](https://skillicons.dev)
-
-
-## 📊 Estadisticas
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucia027&theme=tokyonight" alt="Lucía Fuertes Streak" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1500&amp;color=9270D8&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Desarrolladora+web+en+formaci%C3%B3n;Aprendiendo%2C+creando+y+mejorando;Convirtiendo+ideas+en+c%C3%B3digo"
+    alt="Desarrolladora web en formación. Aprendiendo, creando y mejorando. Convirtiendo ideas en código."
+  />
 </p>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/lucia027/lucia027/output/snake.svg" alt="Snake animation" />
+<br />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucia-fuertes-cruz-658295353/">
+    <img src="https://img.shields.io/badge/LinkedIn-527BCC?style=for-the-badge" height="34" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/lucia027">
+    <img src="https://img.shields.io/badge/GitHub-9270D8?style=for-the-badge" height="34" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=lucia.fuertes.06%40gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-BB729A?style=for-the-badge" height="34" alt="Gmail" />
+  </a>
+</p>
 
-## 📚 Objetivos de aprendizaje
-- [x] Sintaxis básica y tipos de datos 
-- [x] Programación Orientada a Objetos
-- [ ] Colecciones y Programación Funcional
-- [ ] Uso de bases de datos y lectura de ficheros
+---
 
----      
+## 💙 Un poquito sobre mí
 
-| Objetivos  |   Estado  |
-|-----------|-----------|
-| Dominar los fundamentos de la programacion   | En proceso  |
-| Dominar el uso de programacion orientada a objetos  | En proceso |
-| Dominar el uso de multiples colecciones | En proceso|
-| Dominar el paradigma de programacion funcional | En proceso|
+Soy estudiante de **2º de Desarrollo de Aplicaciones Web en el IES Luis Vives**.
 
+Me interesa especialmente el **desarrollo backend con C# y .NET**: entender cómo funciona una aplicación por dentro, trabajar con datos y crear soluciones bien estructuradas.
+
+En mis repositorios comparto mis proyectos, prácticas y lo que voy aprendiendo por el camino. Me gusta afrontar nuevos retos, cuidar los detalles y seguir mejorando con cada proyecto. 🚀
+
+> “Programa siempre tu código como si la persona que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”.
+> — Martin Goldin
+
+## 💻 Tecnologías y herramientas
+
+Tecnologías con las que he trabajado durante mi formación y mis proyectos.
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java&theme=dark" alt="C#, .NET y Java" />
+</p>
+
+### 🎨 Frontend y contenido web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap,wordpress&theme=dark" alt="HTML, CSS, Angular, Bootstrap y WordPress" />
+</p>
+
+### 🗄️ Bases de datos y caché
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Cassandra y Redis" />
+</p>
+
+### 🛠️ Herramientas de desarrollo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,rider,idea,vscode&theme=dark" alt="Git, GitHub, Rider, IntelliJ IDEA y Visual Studio Code" />
+</p>
+
+### 🖥️ Entornos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,windows&theme=dark" alt="Ubuntu y Windows" />
+</p>
+
+## 📊 Mi actividad en GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucia027&amp;theme=tokyonight" width="48%" alt="Mis estadísticas de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucia027&amp;theme=tokyonight" width="48%" alt="Lenguajes por número de repositorios" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucia027&amp;theme=tokyonight" width="48%" alt="Lenguajes con más commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucia027&amp;theme=tokyonight&amp;timeZone=Europe%2FMadrid" width="48%" alt="Distribución de commits por hora en horario de Madrid" />
+</p>
+
+## 🚀 Mi código, en modo arcade
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucia027/lucia027/profile-animations/space-shooter.gif" width="100%" alt="Mi actividad de GitHub convertida en Space Shooter" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Hecho con curiosidad, paciencia y alguna que otra tecla de más. 💙</sub>
+</p>
